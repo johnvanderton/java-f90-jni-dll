@@ -20,7 +20,7 @@ To achieve the correct operation to perform, the library `FortranExecuter.dll` s
   - `FortranExecuter.dll` interface that allows to invoke `n` sub-DLL(s)
   -	`fortrandll1.dll` called by `FortranExecuter.dll` and which is containing the Fortran code
 
-## Installation
+## Test
 
 To test the application,
 
