@@ -8,7 +8,7 @@ Call a Fortran dynamic library (DLL) from Java bean by using JNI/JNA.
 
 This demo is allowing the invocation of one or many DLL. JNI, Java Native Interface, is giving access to the C++ code which is encapsulating the Fortran code. As a test, two parameters (XML files) are sent through the `FortranExecuter class` to the `FortranExecuter.dll` library. In return, a message is sent back from the library to the java code.
 
-To achieve the correct operation to perform, the library `FortranExecuter.dll` should be call by the `fortrandll1.dll` library.
+To achieve the operation, the library `FortranExecuter.dll` should be call by the `fortrandll1.dll` library.
 
 ## Content
 
