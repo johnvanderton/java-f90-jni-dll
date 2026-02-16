@@ -40,7 +40,7 @@ You might need a few things for your environment (PATH) such as,
 
 # Licence
 
-Copyright (C) 2023, John Van Derton
+Copyright (C) 2023-2026, John Van Derton
 
 Please read the ['LICENCE'](./LICENSE) file for more information.
 
