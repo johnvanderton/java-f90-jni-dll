@@ -2,7 +2,7 @@
 
 ECHO ######
 ECHO ## 'compile.bat' 
-ECHO ## Licence, John Van Derton (2023)
+ECHO ## Licence, John Van Derton (2023-2026)
 ECHO ######
 
 ECHO pre-cleaning folder...
