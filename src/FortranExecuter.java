@@ -2,7 +2,7 @@
 
 	Only JNI and C++ support
 
-	Credits, John Van Derton (2023)
+	Credits, John Van Derton (2023-2026)
 	
 	Notes : 
 		- signature function might be into minus
